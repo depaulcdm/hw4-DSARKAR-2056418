@@ -19,9 +19,9 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
 
 # Maven [30 pts]
-- [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
-- [10 pts] A screen capture showing a successful build using the Maven script.
-- [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
+- [5 pts] A screen capture showing the version of Maven that you installed and its install directory.![Screen Capture #1](images/Maven1.png)
+- [10 pts] A screen capture showing a successful build using the Maven script.![Screen Capture #1](images/Maven2.png)
+- [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.![Screen Capture #1](images/Maven3.png)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
 
 # Gradle [30 pts]
